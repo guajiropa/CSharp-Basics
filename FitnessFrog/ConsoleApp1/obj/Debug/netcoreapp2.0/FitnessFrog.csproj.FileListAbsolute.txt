@@ -1,0 +1,11 @@
+C:\Users\guaji\Documents\SRC\CS\TreeHouse\C# Basics\FitnessFrog\ConsoleApp1\bin\Debug\netcoreapp2.0\FitnessFrog.deps.json
+C:\Users\guaji\Documents\SRC\CS\TreeHouse\C# Basics\FitnessFrog\ConsoleApp1\bin\Debug\netcoreapp2.0\FitnessFrog.runtimeconfig.json
+C:\Users\guaji\Documents\SRC\CS\TreeHouse\C# Basics\FitnessFrog\ConsoleApp1\bin\Debug\netcoreapp2.0\FitnessFrog.runtimeconfig.dev.json
+C:\Users\guaji\Documents\SRC\CS\TreeHouse\C# Basics\FitnessFrog\ConsoleApp1\bin\Debug\netcoreapp2.0\FitnessFrog.dll
+C:\Users\guaji\Documents\SRC\CS\TreeHouse\C# Basics\FitnessFrog\ConsoleApp1\bin\Debug\netcoreapp2.0\FitnessFrog.pdb
+C:\Users\guaji\Documents\SRC\CS\TreeHouse\C# Basics\FitnessFrog\ConsoleApp1\obj\Debug\netcoreapp2.0\FitnessFrog.csprojResolveAssemblyReference.cache
+C:\Users\guaji\Documents\SRC\CS\TreeHouse\C# Basics\FitnessFrog\ConsoleApp1\obj\Debug\netcoreapp2.0\FitnessFrog.csproj.CoreCompileInputs.cache
+C:\Users\guaji\Documents\SRC\CS\TreeHouse\C# Basics\FitnessFrog\ConsoleApp1\obj\Debug\netcoreapp2.0\FitnessFrog.AssemblyInfoInputs.cache
+C:\Users\guaji\Documents\SRC\CS\TreeHouse\C# Basics\FitnessFrog\ConsoleApp1\obj\Debug\netcoreapp2.0\FitnessFrog.AssemblyInfo.cs
+C:\Users\guaji\Documents\SRC\CS\TreeHouse\C# Basics\FitnessFrog\ConsoleApp1\obj\Debug\netcoreapp2.0\FitnessFrog.dll
+C:\Users\guaji\Documents\SRC\CS\TreeHouse\C# Basics\FitnessFrog\ConsoleApp1\obj\Debug\netcoreapp2.0\FitnessFrog.pdb
