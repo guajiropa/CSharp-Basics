@@ -1,0 +1,7 @@
+C:\Users\guaji\Documents\SRC\CS\TreeHouse\C# Basics\FitnessFrog\JustRight\bin\Debug\JustRight.exe.config
+C:\Users\guaji\Documents\SRC\CS\TreeHouse\C# Basics\FitnessFrog\JustRight\bin\Debug\JustRight.exe
+C:\Users\guaji\Documents\SRC\CS\TreeHouse\C# Basics\FitnessFrog\JustRight\bin\Debug\JustRight.pdb
+C:\Users\guaji\Documents\SRC\CS\TreeHouse\C# Basics\FitnessFrog\JustRight\obj\Debug\JustRight.csprojResolveAssemblyReference.cache
+C:\Users\guaji\Documents\SRC\CS\TreeHouse\C# Basics\FitnessFrog\JustRight\obj\Debug\JustRight.csproj.CoreCompileInputs.cache
+C:\Users\guaji\Documents\SRC\CS\TreeHouse\C# Basics\FitnessFrog\JustRight\obj\Debug\JustRight.exe
+C:\Users\guaji\Documents\SRC\CS\TreeHouse\C# Basics\FitnessFrog\JustRight\obj\Debug\JustRight.pdb
